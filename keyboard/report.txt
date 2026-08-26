@@ -1,0 +1,1139 @@
+Info: Processing symbol 'D8:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'S3:PCM_marbastlib-mx:STAB_MX_6.25u'.
+Info: Processing symbol 'S2:PCM_marbastlib-mx:STAB_MX_P_2.25u'.
+Info: Processing symbol 'S1:PCM_marbastlib-mx:STAB_MX_P_2u'.
+Info: Processing symbol 'MX40:PCM_marbastlib-mx:SW_MX_1.5u'.
+Info: Processing symbol 'MX39:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX38:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX37:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX36:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX34:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX33:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX32:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX31:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'D2:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'MX30:PCM_marbastlib-mx:SW_MX_1.25u'.
+Info: Processing symbol 'MX29:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX28:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX27:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX26:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX25:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX24:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX23:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX22:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX21:PCM_marbastlib-mx:SW_MX_1.75u'.
+Info: Processing symbol 'MX20:PCM_marbastlib-mx:SW_MX_1.5u'.
+Info: Processing symbol 'D3:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'MX19:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX18:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX17:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX16:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX15:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX14:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX13:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX12:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX11:PCM_marbastlib-mx:SW_MX_1.25u'.
+Info: Processing symbol 'MX10:PCM_marbastlib-mx:SW_MX_1.75u'.
+Info: Processing symbol 'MX9:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'D4:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'MX8:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX7:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX6:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX5:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX4:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX3:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'MX2:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'D1:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'MX1:PCM_marbastlib-mx:SW_MX_1u'.
+Info: Processing symbol 'J1:PCM_marbastlib-xp-promicroish:ProMicro_USBup'.
+Info: Processing symbol 'D40:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D5:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D39:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D38:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D37:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D36:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D34:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D33:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D32:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D31:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D30:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D29:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D28:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D6:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D27:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D26:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D25:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D24:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D23:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D22:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D21:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D20:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D19:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D18:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D17:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D7:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D16:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D15:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D14:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D13:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D12:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D11:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D10:Diode_SMD:D_SOD-123'.
+Info: Processing symbol 'D9:Diode_SMD:D_SOD-123'.
+Updated MX1 sheetname to '/'.
+Removed unused net unconnected-(U1-VCC-Pad21).
+Updated D7 unit metadata.
+Connected D7 pin 2 to Net-(D7-A).
+Added D8 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D8.
+Changed D8 value from D_SOD-123 to D_Small.
+Updated D8 symbol association from  to /30ec664e-20df-4c3f-93a9-75644a70ec8a.
+Updated D8 fields.
+Updated D8 sheetname to '/'.
+Updated D8 sheetfile to 'keyboard.kicad_sch'.
+Updated D8 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D8 pin 2 to Net-(D8-A).
+Connected D8 pin 1 to Net-(D1-K).
+Updated D8 unit metadata.
+Updated D7 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added D9 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D9.
+Changed D9 value from D_SOD-123 to D_Small.
+Updated D9 symbol association from  to /18c51806-1a7d-4bf4-9072-2a58e483284f.
+Updated D9 fields.
+Updated D9 sheetname to '/'.
+Updated D9 sheetfile to 'keyboard.kicad_sch'.
+Updated D9 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D9 pin 2 to Net-(D9-A).
+Connected D9 pin 1 to Net-(D1-K).
+Updated D9 unit metadata.
+Updated D7 sheetfile to 'keyboard.kicad_sch'.
+Added D10 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D10.
+Changed D10 value from D_SOD-123 to D_Small.
+Updated D10 symbol association from  to /05b02aa6-da39-425c-b56d-090a2978f0b4.
+Updated D10 fields.
+Updated D10 sheetname to '/'.
+Updated D10 sheetfile to 'keyboard.kicad_sch'.
+Updated D10 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D10-A).
+Connected D10 pin 2 to Net-(D10-A).
+Connected D10 pin 1 to Net-(D1-K).
+Updated D10 unit metadata.
+Updated D7 sheetname to '/'.
+Added D11 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D11.
+Changed D11 value from D_SOD-123 to D_Small.
+Updated D11 symbol association from  to /edfd39b2-37b8-4423-9835-344f93971233.
+Updated D11 fields.
+Updated D11 sheetname to '/'.
+Updated D11 sheetfile to 'keyboard.kicad_sch'.
+Updated D11 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D11-K).
+Connected D11 pin 1 to Net-(D11-K).
+Add net Net-(D11-A).
+Connected D11 pin 2 to Net-(D11-A).
+Updated D11 unit metadata.
+Updated D7 fields.
+Added D12 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D12.
+Changed D12 value from D_SOD-123 to D_Small.
+Updated D12 symbol association from  to /b5d9f44f-3232-4a1a-a147-8828e7d542e8.
+Updated D12 fields.
+Updated D12 sheetname to '/'.
+Updated D12 sheetfile to 'keyboard.kicad_sch'.
+Updated D12 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D12 pin 1 to Net-(D11-K).
+Add net Net-(D12-A).
+Connected D12 pin 2 to Net-(D12-A).
+Updated D12 unit metadata.
+Updated D7 symbol association from  to /856d4efe-fc98-4f4c-958d-9282fce9fcb2.
+Added D13 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D13.
+Changed D13 value from D_SOD-123 to D_Small.
+Updated D13 symbol association from  to /0c1ec2d2-caca-4ee1-876d-4bea8c535906.
+Updated D13 fields.
+Updated D13 sheetname to '/'.
+Updated D13 sheetfile to 'keyboard.kicad_sch'.
+Updated D13 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D13-A).
+Connected D13 pin 2 to Net-(D13-A).
+Connected D13 pin 1 to Net-(D11-K).
+Updated D13 unit metadata.
+Changed D7 value from D_SOD-123 to D_Small.
+Added D14 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D14.
+Changed D14 value from D_SOD-123 to D_Small.
+Updated D14 symbol association from  to /f68022d7-a929-412a-aa56-39f1b642d8f1.
+Updated D14 fields.
+Updated D14 sheetname to '/'.
+Updated D14 sheetfile to 'keyboard.kicad_sch'.
+Updated D14 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D14 pin 1 to Net-(D11-K).
+Add net Net-(D14-A).
+Connected D14 pin 2 to Net-(D14-A).
+Updated D14 unit metadata.
+Changed REF** reference designator to D7.
+Added D15 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D15.
+Changed D15 value from D_SOD-123 to D_Small.
+Updated D15 symbol association from  to /0724dba5-aff4-49a3-a2a2-ffd9491d1d37.
+Updated D15 fields.
+Updated D15 sheetname to '/'.
+Updated D15 sheetfile to 'keyboard.kicad_sch'.
+Updated D15 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D15 pin 1 to Net-(D11-K).
+Add net Net-(D15-A).
+Connected D15 pin 2 to Net-(D15-A).
+Updated D15 unit metadata.
+Added D7 (footprint 'Diode_SMD:D_SOD-123').
+Added D16 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D16.
+Changed D16 value from D_SOD-123 to D_Small.
+Updated D16 symbol association from  to /60174420-efa1-47b1-b32f-ce2a24838768.
+Updated D16 fields.
+Updated D16 sheetname to '/'.
+Updated D16 sheetfile to 'keyboard.kicad_sch'.
+Updated D16 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D16 pin 1 to Net-(D11-K).
+Add net Net-(D16-A).
+Connected D16 pin 2 to Net-(D16-A).
+Updated D16 unit metadata.
+Updated D6 unit metadata.
+Added D17 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D17.
+Changed D17 value from D_SOD-123 to D_Small.
+Updated D17 symbol association from  to /9199f759-7c29-4e66-852c-7148e95ed1c4.
+Updated D17 fields.
+Updated D17 sheetname to '/'.
+Updated D17 sheetfile to 'keyboard.kicad_sch'.
+Updated D17 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D17 pin 1 to Net-(D11-K).
+Add net Net-(D17-A).
+Connected D17 pin 2 to Net-(D17-A).
+Updated D17 unit metadata.
+Connected D6 pin 2 to Net-(D6-A).
+Added D18 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D18.
+Changed D18 value from D_SOD-123 to D_Small.
+Updated D18 symbol association from  to /2c754ae4-bf2e-453e-af66-902e48b0a0ac.
+Updated D18 fields.
+Updated D18 sheetname to '/'.
+Updated D18 sheetfile to 'keyboard.kicad_sch'.
+Updated D18 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D18 pin 1 to Net-(D11-K).
+Add net Net-(D18-A).
+Connected D18 pin 2 to Net-(D18-A).
+Updated D18 unit metadata.
+Connected D6 pin 1 to Net-(D1-K).
+Added D19 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D19.
+Changed D19 value from D_SOD-123 to D_Small.
+Updated D19 symbol association from  to /7e63b02d-c026-4425-8863-1231489b2852.
+Updated D19 fields.
+Updated D19 sheetname to '/'.
+Updated D19 sheetfile to 'keyboard.kicad_sch'.
+Updated D19 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D19 pin 1 to Net-(D11-K).
+Add net Net-(D19-A).
+Connected D19 pin 2 to Net-(D19-A).
+Updated D19 unit metadata.
+Updated D6 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added D20 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D20.
+Changed D20 value from D_SOD-123 to D_Small.
+Updated D20 symbol association from  to /95b5d7a3-4226-4b67-94eb-388020ec41eb.
+Updated D20 fields.
+Updated D20 sheetname to '/'.
+Updated D20 sheetfile to 'keyboard.kicad_sch'.
+Updated D20 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D20 pin 1 to Net-(D11-K).
+Add net Net-(D20-A).
+Connected D20 pin 2 to Net-(D20-A).
+Updated D20 unit metadata.
+Updated D6 sheetfile to 'keyboard.kicad_sch'.
+Added D21 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D21.
+Changed D21 value from D_SOD-123 to D_Small.
+Updated D21 symbol association from  to /b0cb9279-2236-4c51-9a32-5f534050f130.
+Updated D21 fields.
+Updated D21 sheetname to '/'.
+Updated D21 sheetfile to 'keyboard.kicad_sch'.
+Updated D21 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D21-A).
+Connected D21 pin 2 to Net-(D21-A).
+Add net Net-(D21-K).
+Connected D21 pin 1 to Net-(D21-K).
+Updated D21 unit metadata.
+Updated D6 sheetname to '/'.
+Added D22 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D22.
+Changed D22 value from D_SOD-123 to D_Small.
+Updated D22 symbol association from  to /7c3dc46e-4166-4ca7-97b9-fe15295bf6ec.
+Updated D22 fields.
+Updated D22 sheetname to '/'.
+Updated D22 sheetfile to 'keyboard.kicad_sch'.
+Updated D22 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D22 pin 1 to Net-(D21-K).
+Add net Net-(D22-A).
+Connected D22 pin 2 to Net-(D22-A).
+Updated D22 unit metadata.
+Updated D6 fields.
+Added D23 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D23.
+Changed D23 value from D_SOD-123 to D_Small.
+Updated D23 symbol association from  to /5fc29f18-e18b-4082-8f66-a7ae403e437b.
+Updated D23 fields.
+Updated D23 sheetname to '/'.
+Updated D23 sheetfile to 'keyboard.kicad_sch'.
+Updated D23 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D23 pin 1 to Net-(D21-K).
+Add net Net-(D23-A).
+Connected D23 pin 2 to Net-(D23-A).
+Updated D23 unit metadata.
+Updated D6 symbol association from  to /fd096a24-65c0-42b0-a878-f5d2f93176b8.
+Added D24 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D24.
+Changed D24 value from D_SOD-123 to D_Small.
+Updated D24 symbol association from  to /328c0087-bcd9-49a4-be4f-47dff6615606.
+Updated D24 fields.
+Updated D24 sheetname to '/'.
+Updated D24 sheetfile to 'keyboard.kicad_sch'.
+Updated D24 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D24 pin 1 to Net-(D21-K).
+Add net Net-(D24-A).
+Connected D24 pin 2 to Net-(D24-A).
+Updated D24 unit metadata.
+Changed D6 value from D_SOD-123 to D_Small.
+Added D25 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D25.
+Changed D25 value from D_SOD-123 to D_Small.
+Updated D25 symbol association from  to /f22884bb-451a-4289-a278-cf9ec324e983.
+Updated D25 fields.
+Updated D25 sheetname to '/'.
+Updated D25 sheetfile to 'keyboard.kicad_sch'.
+Updated D25 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D25-A).
+Connected D25 pin 2 to Net-(D25-A).
+Connected D25 pin 1 to Net-(D21-K).
+Updated D25 unit metadata.
+Changed REF** reference designator to D6.
+Added D26 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D26.
+Changed D26 value from D_SOD-123 to D_Small.
+Updated D26 symbol association from  to /a1f6ae54-d624-49e6-9272-242004e7e5e1.
+Updated D26 fields.
+Updated D26 sheetname to '/'.
+Updated D26 sheetfile to 'keyboard.kicad_sch'.
+Updated D26 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D26 pin 1 to Net-(D21-K).
+Add net Net-(D26-A).
+Connected D26 pin 2 to Net-(D26-A).
+Updated D26 unit metadata.
+Added D6 (footprint 'Diode_SMD:D_SOD-123').
+Added D27 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D27.
+Changed D27 value from D_SOD-123 to D_Small.
+Updated D27 symbol association from  to /037a722b-025c-4362-b73b-89fd44e281be.
+Updated D27 fields.
+Updated D27 sheetname to '/'.
+Updated D27 sheetfile to 'keyboard.kicad_sch'.
+Updated D27 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D27 pin 1 to Net-(D21-K).
+Add net Net-(D27-A).
+Connected D27 pin 2 to Net-(D27-A).
+Updated D27 unit metadata.
+Updated D5 unit metadata.
+Added D28 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D28.
+Changed D28 value from D_SOD-123 to D_Small.
+Updated D28 symbol association from  to /6ecb7bf2-eacc-4efb-a762-052bae16f48d.
+Updated D28 fields.
+Updated D28 sheetname to '/'.
+Updated D28 sheetfile to 'keyboard.kicad_sch'.
+Updated D28 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D28 pin 1 to Net-(D21-K).
+Add net Net-(D28-A).
+Connected D28 pin 2 to Net-(D28-A).
+Updated D28 unit metadata.
+Connected D5 pin 1 to Net-(D1-K).
+Added D29 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D29.
+Changed D29 value from D_SOD-123 to D_Small.
+Updated D29 symbol association from  to /5e22050b-db3a-47b5-b489-963f125ddcc8.
+Updated D29 fields.
+Updated D29 sheetname to '/'.
+Updated D29 sheetfile to 'keyboard.kicad_sch'.
+Updated D29 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D29 pin 1 to Net-(D21-K).
+Add net Net-(D29-A).
+Connected D29 pin 2 to Net-(D29-A).
+Updated D29 unit metadata.
+Connected D5 pin 2 to Net-(D5-A).
+Added D30 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D30.
+Changed D30 value from D_SOD-123 to D_Small.
+Updated D30 symbol association from  to /021c5fb8-286f-4d0c-87c1-fd9b8109b2ac.
+Updated D30 fields.
+Updated D30 sheetname to '/'.
+Updated D30 sheetfile to 'keyboard.kicad_sch'.
+Updated D30 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D30 pin 1 to Net-(D21-K).
+Add net Net-(D30-A).
+Connected D30 pin 2 to Net-(D30-A).
+Updated D30 unit metadata.
+Updated D5 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added D31 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D31.
+Changed D31 value from D_SOD-123 to D_Small.
+Updated D31 symbol association from  to /2a9fc258-cf1c-46b7-9b87-4440eb78f1bb.
+Updated D31 fields.
+Updated D31 sheetname to '/'.
+Updated D31 sheetfile to 'keyboard.kicad_sch'.
+Updated D31 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D31-A).
+Connected D31 pin 2 to Net-(D31-A).
+Add net Net-(D31-K).
+Connected D31 pin 1 to Net-(D31-K).
+Updated D31 unit metadata.
+Updated D5 sheetfile to 'keyboard.kicad_sch'.
+Added D32 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D32.
+Changed D32 value from D_SOD-123 to D_Small.
+Updated D32 symbol association from  to /77de605b-05dc-40ed-8dd0-4d81b0ea3ef7.
+Updated D32 fields.
+Updated D32 sheetname to '/'.
+Updated D32 sheetfile to 'keyboard.kicad_sch'.
+Updated D32 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D32 pin 1 to Net-(D31-K).
+Add net Net-(D32-A).
+Connected D32 pin 2 to Net-(D32-A).
+Updated D32 unit metadata.
+Updated D5 sheetname to '/'.
+Added D33 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D33.
+Changed D33 value from D_SOD-123 to D_Small.
+Updated D33 symbol association from  to /9cfba418-2e9b-4756-b005-c95a18a1dd87.
+Updated D33 fields.
+Updated D33 sheetname to '/'.
+Updated D33 sheetfile to 'keyboard.kicad_sch'.
+Updated D33 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D33-A).
+Connected D33 pin 2 to Net-(D33-A).
+Connected D33 pin 1 to Net-(D31-K).
+Updated D33 unit metadata.
+Updated D5 fields.
+Added D34 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D34.
+Changed D34 value from D_SOD-123 to D_Small.
+Updated D34 symbol association from  to /53262368-6c65-4006-a20d-6e28b9b3b8df.
+Updated D34 fields.
+Updated D34 sheetname to '/'.
+Updated D34 sheetfile to 'keyboard.kicad_sch'.
+Updated D34 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D34-A).
+Connected D34 pin 2 to Net-(D34-A).
+Connected D34 pin 1 to Net-(D31-K).
+Updated D34 unit metadata.
+Updated D5 symbol association from  to /9d5de469-bafb-4da1-8da9-b435d2f2be5e.
+Added D36 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D36.
+Changed D36 value from D_SOD-123 to D_Small.
+Updated D36 symbol association from  to /8329383c-fc60-4a60-a7df-25623a45dd68.
+Updated D36 fields.
+Updated D36 sheetname to '/'.
+Updated D36 sheetfile to 'keyboard.kicad_sch'.
+Updated D36 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D36-A).
+Connected D36 pin 2 to Net-(D36-A).
+Connected D36 pin 1 to Net-(D31-K).
+Updated D36 unit metadata.
+Changed D5 value from D_SOD-123 to D_Small.
+Added D37 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D37.
+Changed D37 value from D_SOD-123 to D_Small.
+Updated D37 symbol association from  to /871c1aac-6088-4894-bdf7-33b1a3d3d7f7.
+Updated D37 fields.
+Updated D37 sheetname to '/'.
+Updated D37 sheetfile to 'keyboard.kicad_sch'.
+Updated D37 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D37 pin 1 to Net-(D31-K).
+Add net Net-(D37-A).
+Connected D37 pin 2 to Net-(D37-A).
+Updated D37 unit metadata.
+Changed REF** reference designator to D5.
+Added D38 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D38.
+Changed D38 value from D_SOD-123 to D_Small.
+Updated D38 symbol association from  to /c2bb05e4-a5ab-469a-a575-519ddcf3d90c.
+Updated D38 fields.
+Updated D38 sheetname to '/'.
+Updated D38 sheetfile to 'keyboard.kicad_sch'.
+Updated D38 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D38 pin 1 to Net-(D31-K).
+Add net Net-(D38-A).
+Connected D38 pin 2 to Net-(D38-A).
+Updated D38 unit metadata.
+Added D5 (footprint 'Diode_SMD:D_SOD-123').
+Added D39 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D39.
+Changed D39 value from D_SOD-123 to D_Small.
+Updated D39 symbol association from  to /c9f8206c-eb44-455a-8cd5-0a6db8956966.
+Updated D39 fields.
+Updated D39 sheetname to '/'.
+Updated D39 sheetfile to 'keyboard.kicad_sch'.
+Updated D39 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Connected D39 pin 1 to Net-(D31-K).
+Add net Net-(D39-A).
+Connected D39 pin 2 to Net-(D39-A).
+Updated D39 unit metadata.
+Updated D4 unit metadata.
+Added D40 (footprint 'Diode_SMD:D_SOD-123').
+Changed REF** reference designator to D40.
+Changed D40 value from D_SOD-123 to D_Small.
+Updated D40 symbol association from  to /cd0056d1-444d-471e-92e8-141a78b1915f.
+Updated D40 fields.
+Updated D40 sheetname to '/'.
+Updated D40 sheetfile to 'keyboard.kicad_sch'.
+Updated D40 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Add net Net-(D40-A).
+Connected D40 pin 2 to Net-(D40-A).
+Connected D40 pin 1 to Net-(D31-K).
+Updated D40 unit metadata.
+Connected D4 pin 1 to Net-(D1-K).
+Added J1 (footprint 'PCM_marbastlib-xp-promicroish:ProMicro_USBup').
+Changed REF** reference designator to J1.
+Changed J1 value from ProMicro_Simple_USBup to Conn_02x12_Top_Bottom.
+Updated J1 symbol association from  to /a0df428e-bc1c-45d7-a892-347892d354b3.
+Updated J1 fields.
+Updated J1 sheetname to '/'.
+Updated J1 sheetfile to 'keyboard.kicad_sch'.
+Updated J1 footprint filters to 'Connector*:*_2x??_*'.
+Removed J1 'exclude from BOM' fabrication attribute.
+Removed J1 'exclude from position files' fabrication attribute.
+Add net unconnected-(J1-Pin_3-Pad3).
+Connected J1 pin 3 to unconnected-(J1-Pin_3-Pad3).
+Add net unconnected-(J1-Pin_18-Pad18).
+Connected J1 pin 18 to unconnected-(J1-Pin_18-Pad18).
+Add net unconnected-(J1-Pin_23-Pad23).
+Connected J1 pin 23 to unconnected-(J1-Pin_23-Pad23).
+Add net unconnected-(J1-Pin_7-Pad7).
+Connected J1 pin 7 to unconnected-(J1-Pin_7-Pad7).
+Add net unconnected-(J1-Pin_1-Pad1).
+Connected J1 pin 1 to unconnected-(J1-Pin_1-Pad1).
+Add net unconnected-(J1-Pin_20-Pad20).
+Connected J1 pin 20 to unconnected-(J1-Pin_20-Pad20).
+Add net unconnected-(J1-Pin_5-Pad5).
+Connected J1 pin 5 to unconnected-(J1-Pin_5-Pad5).
+Add net unconnected-(J1-Pin_4-Pad4).
+Connected J1 pin 4 to unconnected-(J1-Pin_4-Pad4).
+Add net unconnected-(J1-Pin_11-Pad11).
+Connected J1 pin 11 to unconnected-(J1-Pin_11-Pad11).
+Add net unconnected-(J1-Pin_2-Pad2).
+Connected J1 pin 2 to unconnected-(J1-Pin_2-Pad2).
+Add net unconnected-(J1-Pin_12-Pad12).
+Connected J1 pin 12 to unconnected-(J1-Pin_12-Pad12).
+Add net unconnected-(J1-Pin_8-Pad8).
+Connected J1 pin 8 to unconnected-(J1-Pin_8-Pad8).
+Add net unconnected-(J1-Pin_17-Pad17).
+Connected J1 pin 17 to unconnected-(J1-Pin_17-Pad17).
+Add net unconnected-(J1-Pin_19-Pad19).
+Connected J1 pin 19 to unconnected-(J1-Pin_19-Pad19).
+Add net unconnected-(J1-Pin_6-Pad6).
+Connected J1 pin 6 to unconnected-(J1-Pin_6-Pad6).
+Add net unconnected-(J1-Pin_21-Pad21).
+Connected J1 pin 21 to unconnected-(J1-Pin_21-Pad21).
+Add net unconnected-(J1-Pin_13-Pad13).
+Connected J1 pin 13 to unconnected-(J1-Pin_13-Pad13).
+Add net unconnected-(J1-Pin_14-Pad14).
+Connected J1 pin 14 to unconnected-(J1-Pin_14-Pad14).
+Add net unconnected-(J1-Pin_9-Pad9).
+Connected J1 pin 9 to unconnected-(J1-Pin_9-Pad9).
+Add net unconnected-(J1-Pin_10-Pad10).
+Connected J1 pin 10 to unconnected-(J1-Pin_10-Pad10).
+Add net unconnected-(J1-Pin_15-Pad15).
+Connected J1 pin 15 to unconnected-(J1-Pin_15-Pad15).
+Add net unconnected-(J1-Pin_16-Pad16).
+Connected J1 pin 16 to unconnected-(J1-Pin_16-Pad16).
+Add net unconnected-(J1-Pin_22-Pad22).
+Connected J1 pin 22 to unconnected-(J1-Pin_22-Pad22).
+Add net unconnected-(J1-Pin_24-Pad24).
+Connected J1 pin 24 to unconnected-(J1-Pin_24-Pad24).
+Updated J1 unit metadata.
+Connected D4 pin 2 to Net-(D4-A).
+Added MX1 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX1.
+Changed MX1 value from SW_MX to MX_SW_HS.
+Updated MX1 symbol association from  to /d5def846-c942-48ef-bcb2-afe7c243e959.
+Updated MX1 fields.
+Updated D4 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Updated MX1 sheetfile to 'keyboard.kicad_sch'.
+Removed MX1 'exclude from BOM' fabrication attribute.
+Removed MX1 'exclude from position files' fabrication attribute.
+Connected MX1 pin 2 to Net-(D1-A).
+Add net Net-(MX1-Pad1).
+Connected MX1 pin 1 to Net-(MX1-Pad1).
+Updated MX1 unit metadata.
+Updated D4 sheetfile to 'keyboard.kicad_sch'.
+Added MX2 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX2.
+Changed MX2 value from SW_MX to MX_SW_HS.
+Updated MX2 symbol association from  to /8cb8620f-84e3-493b-92ef-120676427b90.
+Updated MX2 fields.
+Updated MX2 sheetname to '/'.
+Updated MX2 sheetfile to 'keyboard.kicad_sch'.
+Removed MX2 'exclude from BOM' fabrication attribute.
+Removed MX2 'exclude from position files' fabrication attribute.
+Add net Net-(MX12-Pad1).
+Connected MX2 pin 1 to Net-(MX12-Pad1).
+Connected MX2 pin 2 to Net-(D2-A).
+Updated MX2 unit metadata.
+Updated D4 sheetname to '/'.
+Added MX3 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX3.
+Changed MX3 value from SW_MX to MX_SW_HS.
+Updated MX3 symbol association from  to /41395656-d2e8-4615-9868-08e909814bb7.
+Updated MX3 fields.
+Updated MX3 sheetname to '/'.
+Updated MX3 sheetfile to 'keyboard.kicad_sch'.
+Removed MX3 'exclude from BOM' fabrication attribute.
+Removed MX3 'exclude from position files' fabrication attribute.
+Connected MX3 pin 2 to Net-(D3-A).
+Add net Net-(MX13-Pad1).
+Connected MX3 pin 1 to Net-(MX13-Pad1).
+Updated MX3 unit metadata.
+Updated D4 fields.
+Added MX4 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX4.
+Changed MX4 value from SW_MX to MX_SW_HS.
+Updated MX4 symbol association from  to /75e942f3-20cd-4efc-8afa-4d5440435539.
+Connected D7 pin 1 to Net-(D1-K).
+Updated MX4 sheetname to '/'.
+Updated MX4 sheetfile to 'keyboard.kicad_sch'.
+Removed MX4 'exclude from BOM' fabrication attribute.
+Removed MX4 'exclude from position files' fabrication attribute.
+Connected MX4 pin 2 to Net-(D4-A).
+Add net Net-(MX14-Pad1).
+Connected MX4 pin 1 to Net-(MX14-Pad1).
+Updated MX4 unit metadata.
+Updated D4 symbol association from  to /09ec2265-86b6-4e86-995f-ca130df7d2f1.
+Added MX5 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX5.
+Changed MX5 value from SW_MX to MX_SW_HS.
+Updated MX5 symbol association from  to /9dfa0789-909d-426b-8226-d0d6ef2f1ae3.
+Updated MX5 fields.
+Updated MX5 sheetname to '/'.
+Updated MX5 sheetfile to 'keyboard.kicad_sch'.
+Removed MX5 'exclude from BOM' fabrication attribute.
+Removed MX5 'exclude from position files' fabrication attribute.
+Add net Net-(MX15-Pad1).
+Connected MX5 pin 1 to Net-(MX15-Pad1).
+Connected MX5 pin 2 to Net-(D5-A).
+Updated MX5 unit metadata.
+Changed D4 value from D_SOD-123 to D_Small.
+Added MX6 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX6.
+Changed MX6 value from SW_MX to MX_SW_HS.
+Updated MX6 symbol association from  to /f161417a-568d-47d0-8d54-02371f1b70c6.
+Updated MX6 fields.
+Updated MX6 sheetname to '/'.
+Updated MX6 sheetfile to 'keyboard.kicad_sch'.
+Removed MX6 'exclude from BOM' fabrication attribute.
+Removed MX6 'exclude from position files' fabrication attribute.
+Add net Net-(MX16-Pad1).
+Connected MX6 pin 1 to Net-(MX16-Pad1).
+Connected MX6 pin 2 to Net-(D6-A).
+Updated MX6 unit metadata.
+Changed REF** reference designator to D4.
+Added MX7 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX7.
+Changed MX7 value from SW_MX to MX_SW_HS.
+Updated MX7 symbol association from  to /f5c1fce2-0c35-4520-9636-abfa5d8d0734.
+Updated MX7 fields.
+Updated MX7 sheetname to '/'.
+Updated MX7 sheetfile to 'keyboard.kicad_sch'.
+Removed MX7 'exclude from BOM' fabrication attribute.
+Removed MX7 'exclude from position files' fabrication attribute.
+Connected MX7 pin 2 to Net-(D7-A).
+Add net Net-(MX17-Pad1).
+Connected MX7 pin 1 to Net-(MX17-Pad1).
+Updated MX7 unit metadata.
+Added D4 (footprint 'Diode_SMD:D_SOD-123').
+Added MX8 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX8.
+Changed MX8 value from SW_MX to MX_SW_HS.
+Updated MX8 symbol association from  to /165ac9e0-7f74-40e4-a1c2-05da44c5299f.
+Updated MX8 fields.
+Updated MX8 sheetname to '/'.
+Updated MX8 sheetfile to 'keyboard.kicad_sch'.
+Removed MX8 'exclude from BOM' fabrication attribute.
+Removed MX8 'exclude from position files' fabrication attribute.
+Connected MX8 pin 2 to Net-(D8-A).
+Add net Net-(MX18-Pad1).
+Connected MX8 pin 1 to Net-(MX18-Pad1).
+Updated MX8 unit metadata.
+Updated D3 unit metadata.
+Added MX9 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX9.
+Changed MX9 value from SW_MX to MX_SW_HS.
+Updated MX9 symbol association from  to /608bd1a3-e30a-44d2-bada-44bcd13b4aef.
+Updated MX9 fields.
+Updated MX9 sheetname to '/'.
+Updated MX9 sheetfile to 'keyboard.kicad_sch'.
+Removed MX9 'exclude from BOM' fabrication attribute.
+Removed MX9 'exclude from position files' fabrication attribute.
+Connected MX9 pin 2 to Net-(D9-A).
+Add net Net-(MX19-Pad1).
+Connected MX9 pin 1 to Net-(MX19-Pad1).
+Updated MX9 unit metadata.
+Connected D3 pin 1 to Net-(D1-K).
+Added MX10 (footprint 'PCM_marbastlib-mx:SW_MX_1.75u').
+Changed REF** reference designator to MX10.
+Changed MX10 value from SW_MX to MX_SW_HS.
+Updated MX10 symbol association from  to /62005437-78d3-4029-8b5e-649a26b295d5.
+Updated MX10 fields.
+Updated MX10 sheetname to '/'.
+Updated MX10 sheetfile to 'keyboard.kicad_sch'.
+Removed MX10 'exclude from BOM' fabrication attribute.
+Removed MX10 'exclude from position files' fabrication attribute.
+Add net Net-(MX10-Pad1).
+Connected MX10 pin 1 to Net-(MX10-Pad1).
+Connected MX10 pin 2 to Net-(D10-A).
+Updated MX10 unit metadata.
+Connected D3 pin 2 to Net-(D3-A).
+Added MX11 (footprint 'PCM_marbastlib-mx:SW_MX_1.25u').
+Changed REF** reference designator to MX11.
+Changed MX11 value from SW_MX to MX_SW_HS.
+Updated MX11 symbol association from  to /47b375b8-aa60-4720-94b6-282b100a20fb.
+Updated MX11 fields.
+Updated MX11 sheetname to '/'.
+Updated MX11 sheetfile to 'keyboard.kicad_sch'.
+Removed MX11 'exclude from BOM' fabrication attribute.
+Removed MX11 'exclude from position files' fabrication attribute.
+Connected MX11 pin 1 to Net-(MX1-Pad1).
+Connected MX11 pin 2 to Net-(D11-A).
+Updated MX11 unit metadata.
+Updated D3 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added MX12 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX12.
+Changed MX12 value from SW_MX to MX_SW_HS.
+Updated MX12 symbol association from  to /46f7e0bc-ab5b-484c-b967-07ff96615dcb.
+Updated MX12 fields.
+Updated MX12 sheetname to '/'.
+Updated MX12 sheetfile to 'keyboard.kicad_sch'.
+Removed MX12 'exclude from BOM' fabrication attribute.
+Removed MX12 'exclude from position files' fabrication attribute.
+Connected MX12 pin 2 to Net-(D12-A).
+Connected MX12 pin 1 to Net-(MX12-Pad1).
+Updated MX12 unit metadata.
+Updated D3 sheetfile to 'keyboard.kicad_sch'.
+Added MX13 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX13.
+Changed MX13 value from SW_MX to MX_SW_HS.
+Updated MX13 symbol association from  to /afd131ee-3158-4481-b43b-ab78256d5d4e.
+Updated MX13 fields.
+Updated MX13 sheetname to '/'.
+Updated MX13 sheetfile to 'keyboard.kicad_sch'.
+Removed MX13 'exclude from BOM' fabrication attribute.
+Removed MX13 'exclude from position files' fabrication attribute.
+Connected MX13 pin 2 to Net-(D13-A).
+Connected MX13 pin 1 to Net-(MX13-Pad1).
+Updated MX13 unit metadata.
+Updated D3 sheetname to '/'.
+Added MX14 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX14.
+Changed MX14 value from SW_MX to MX_SW_HS.
+Updated MX14 symbol association from  to /e9aeb94c-d4dc-49e5-ac27-5ad396277d8a.
+Updated MX14 fields.
+Updated MX14 sheetname to '/'.
+Updated MX14 sheetfile to 'keyboard.kicad_sch'.
+Removed MX14 'exclude from BOM' fabrication attribute.
+Removed MX14 'exclude from position files' fabrication attribute.
+Connected MX14 pin 2 to Net-(D14-A).
+Connected MX14 pin 1 to Net-(MX14-Pad1).
+Updated MX14 unit metadata.
+Updated D3 fields.
+Added MX15 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX15.
+Changed MX15 value from SW_MX to MX_SW_HS.
+Updated MX15 symbol association from  to /eeebac08-d8d3-4daf-8256-b763774276d7.
+Updated MX15 fields.
+Updated MX15 sheetname to '/'.
+Updated MX15 sheetfile to 'keyboard.kicad_sch'.
+Removed MX15 'exclude from BOM' fabrication attribute.
+Removed MX15 'exclude from position files' fabrication attribute.
+Connected MX15 pin 2 to Net-(D15-A).
+Connected MX15 pin 1 to Net-(MX15-Pad1).
+Updated MX15 unit metadata.
+Updated D3 symbol association from  to /d20b734c-66ab-4d59-8ebe-5d2b2e62a0e8.
+Added MX16 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX16.
+Changed MX16 value from SW_MX to MX_SW_HS.
+Updated MX16 symbol association from  to /7a35033b-ad83-49aa-a95d-e5e1f77b2c49.
+Updated MX16 fields.
+Updated MX16 sheetname to '/'.
+Updated MX16 sheetfile to 'keyboard.kicad_sch'.
+Removed MX16 'exclude from BOM' fabrication attribute.
+Removed MX16 'exclude from position files' fabrication attribute.
+Connected MX16 pin 1 to Net-(MX16-Pad1).
+Connected MX16 pin 2 to Net-(D16-A).
+Updated MX16 unit metadata.
+Changed D3 value from D_SOD-123 to D_Small.
+Added MX17 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX17.
+Changed MX17 value from SW_MX to MX_SW_HS.
+Updated MX17 symbol association from  to /d70c98a1-de07-4a80-9ea2-0ea2ee8e823a.
+Updated MX17 fields.
+Updated MX17 sheetname to '/'.
+Updated MX17 sheetfile to 'keyboard.kicad_sch'.
+Removed MX17 'exclude from BOM' fabrication attribute.
+Removed MX17 'exclude from position files' fabrication attribute.
+Connected MX17 pin 1 to Net-(MX17-Pad1).
+Connected MX17 pin 2 to Net-(D17-A).
+Updated MX17 unit metadata.
+Changed REF** reference designator to D3.
+Added MX18 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX18.
+Changed MX18 value from SW_MX to MX_SW_HS.
+Updated MX18 symbol association from  to /f2059406-1766-4dc7-91dc-073169219dba.
+Updated MX18 fields.
+Updated MX18 sheetname to '/'.
+Updated MX18 sheetfile to 'keyboard.kicad_sch'.
+Removed MX18 'exclude from BOM' fabrication attribute.
+Removed MX18 'exclude from position files' fabrication attribute.
+Connected MX18 pin 2 to Net-(D18-A).
+Connected MX18 pin 1 to Net-(MX18-Pad1).
+Updated MX18 unit metadata.
+Added D3 (footprint 'Diode_SMD:D_SOD-123').
+Added MX19 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX19.
+Changed MX19 value from SW_MX to MX_SW_HS.
+Updated MX19 symbol association from  to /3d024ef5-1257-4693-a790-74d45f882c72.
+Updated MX19 fields.
+Updated MX19 sheetname to '/'.
+Updated MX19 sheetfile to 'keyboard.kicad_sch'.
+Removed MX19 'exclude from BOM' fabrication attribute.
+Removed MX19 'exclude from position files' fabrication attribute.
+Connected MX19 pin 1 to Net-(MX19-Pad1).
+Connected MX19 pin 2 to Net-(D19-A).
+Updated MX19 unit metadata.
+Updated D2 unit metadata.
+Added MX20 (footprint 'PCM_marbastlib-mx:SW_MX_1.5u').
+Changed REF** reference designator to MX20.
+Changed MX20 value from SW_MX to MX_SW_HS.
+Updated MX20 symbol association from  to /528572fc-16a9-42d3-a553-525b31cde8d5.
+Updated MX20 fields.
+Updated MX20 sheetname to '/'.
+Updated MX20 sheetfile to 'keyboard.kicad_sch'.
+Removed MX20 'exclude from BOM' fabrication attribute.
+Removed MX20 'exclude from position files' fabrication attribute.
+Connected MX20 pin 2 to Net-(D20-A).
+Connected MX20 pin 1 to Net-(MX10-Pad1).
+Updated MX20 unit metadata.
+Connected D2 pin 1 to Net-(D1-K).
+Added MX21 (footprint 'PCM_marbastlib-mx:SW_MX_1.75u').
+Changed REF** reference designator to MX21.
+Changed MX21 value from SW_MX to MX_SW_HS.
+Updated MX21 symbol association from  to /05f7afe7-d87d-4576-a455-f692b4401be1.
+Updated MX21 fields.
+Updated MX21 sheetname to '/'.
+Updated MX21 sheetfile to 'keyboard.kicad_sch'.
+Removed MX21 'exclude from BOM' fabrication attribute.
+Removed MX21 'exclude from position files' fabrication attribute.
+Connected MX21 pin 1 to Net-(MX1-Pad1).
+Connected MX21 pin 2 to Net-(D21-A).
+Updated MX21 unit metadata.
+Connected D2 pin 2 to Net-(D2-A).
+Added MX22 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX22.
+Changed MX22 value from SW_MX to MX_SW_HS.
+Updated MX22 symbol association from  to /261eb680-5a44-44eb-aff9-44b598335769.
+Updated MX22 fields.
+Updated MX22 sheetname to '/'.
+Updated MX22 sheetfile to 'keyboard.kicad_sch'.
+Removed MX22 'exclude from BOM' fabrication attribute.
+Removed MX22 'exclude from position files' fabrication attribute.
+Connected MX22 pin 1 to Net-(MX12-Pad1).
+Connected MX22 pin 2 to Net-(D22-A).
+Updated MX22 unit metadata.
+Updated D2 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added MX23 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX23.
+Changed MX23 value from SW_MX to MX_SW_HS.
+Updated MX23 symbol association from  to /4db96bc1-e6d5-4cd3-8a7f-e3e58e29b7f5.
+Updated MX23 fields.
+Updated MX23 sheetname to '/'.
+Updated MX23 sheetfile to 'keyboard.kicad_sch'.
+Removed MX23 'exclude from BOM' fabrication attribute.
+Removed MX23 'exclude from position files' fabrication attribute.
+Connected MX23 pin 2 to Net-(D23-A).
+Connected MX23 pin 1 to Net-(MX13-Pad1).
+Updated MX23 unit metadata.
+Updated D2 sheetfile to 'keyboard.kicad_sch'.
+Added MX24 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX24.
+Changed MX24 value from SW_MX to MX_SW_HS.
+Updated MX24 symbol association from  to /9702d39b-d049-4d5e-a9ea-ceb357a14336.
+Updated MX24 fields.
+Updated MX24 sheetname to '/'.
+Updated MX24 sheetfile to 'keyboard.kicad_sch'.
+Removed MX24 'exclude from BOM' fabrication attribute.
+Removed MX24 'exclude from position files' fabrication attribute.
+Connected MX24 pin 2 to Net-(D24-A).
+Connected MX24 pin 1 to Net-(MX14-Pad1).
+Updated MX24 unit metadata.
+Updated D2 sheetname to '/'.
+Added MX25 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX25.
+Changed MX25 value from SW_MX to MX_SW_HS.
+Updated MX25 symbol association from  to /ef383c51-ead3-487d-b71b-2eef8db91459.
+Updated MX25 fields.
+Updated MX25 sheetname to '/'.
+Updated MX25 sheetfile to 'keyboard.kicad_sch'.
+Removed MX25 'exclude from BOM' fabrication attribute.
+Removed MX25 'exclude from position files' fabrication attribute.
+Connected MX25 pin 2 to Net-(D25-A).
+Connected MX25 pin 1 to Net-(MX15-Pad1).
+Updated MX25 unit metadata.
+Updated D2 fields.
+Added MX26 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX26.
+Changed MX26 value from SW_MX to MX_SW_HS.
+Updated MX26 symbol association from  to /d7ec77ec-2ab4-4e5c-8f5d-806b0b0b4c7b.
+Updated MX26 fields.
+Updated MX26 sheetname to '/'.
+Updated MX26 sheetfile to 'keyboard.kicad_sch'.
+Removed MX26 'exclude from BOM' fabrication attribute.
+Removed MX26 'exclude from position files' fabrication attribute.
+Connected MX26 pin 2 to Net-(D26-A).
+Connected MX26 pin 1 to Net-(MX16-Pad1).
+Updated MX26 unit metadata.
+Updated D2 symbol association from  to /d617a2ee-ed05-40d9-a035-3f7d64f2083b.
+Added MX27 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX27.
+Changed MX27 value from SW_MX to MX_SW_HS.
+Updated MX27 symbol association from  to /2dc7ea68-126d-4885-9a17-27d7d86266ce.
+Updated MX27 fields.
+Updated MX27 sheetname to '/'.
+Updated MX27 sheetfile to 'keyboard.kicad_sch'.
+Removed MX27 'exclude from BOM' fabrication attribute.
+Removed MX27 'exclude from position files' fabrication attribute.
+Connected MX27 pin 2 to Net-(D27-A).
+Connected MX27 pin 1 to Net-(MX17-Pad1).
+Updated MX27 unit metadata.
+Changed D2 value from D_SOD-123 to D_Small.
+Added MX28 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX28.
+Changed MX28 value from SW_MX to MX_SW_HS.
+Updated MX28 symbol association from  to /de37cd76-3bdb-40d2-8e7d-5ddc11a2b872.
+Updated MX28 fields.
+Updated MX28 sheetname to '/'.
+Updated MX28 sheetfile to 'keyboard.kicad_sch'.
+Removed MX28 'exclude from BOM' fabrication attribute.
+Removed MX28 'exclude from position files' fabrication attribute.
+Connected MX28 pin 2 to Net-(D28-A).
+Connected MX28 pin 1 to Net-(MX18-Pad1).
+Updated MX28 unit metadata.
+Changed REF** reference designator to D2.
+Added MX29 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX29.
+Changed MX29 value from SW_MX to MX_SW_HS.
+Updated MX29 symbol association from  to /dcf6ddfa-6b0c-4b74-bd08-e32dbf957f64.
+Updated MX29 fields.
+Updated MX29 sheetname to '/'.
+Updated MX29 sheetfile to 'keyboard.kicad_sch'.
+Removed MX29 'exclude from BOM' fabrication attribute.
+Removed MX29 'exclude from position files' fabrication attribute.
+Connected MX29 pin 2 to Net-(D29-A).
+Connected MX29 pin 1 to Net-(MX19-Pad1).
+Updated MX29 unit metadata.
+Added D2 (footprint 'Diode_SMD:D_SOD-123').
+Added MX30 (footprint 'PCM_marbastlib-mx:SW_MX_1.25u').
+Changed REF** reference designator to MX30.
+Changed MX30 value from SW_MX to MX_SW_HS.
+Updated MX30 symbol association from  to /2d954d7c-c947-46db-aa9e-d9df4f60658c.
+Updated MX30 fields.
+Updated MX30 sheetname to '/'.
+Updated MX30 sheetfile to 'keyboard.kicad_sch'.
+Removed MX30 'exclude from BOM' fabrication attribute.
+Removed MX30 'exclude from position files' fabrication attribute.
+Connected MX30 pin 1 to Net-(MX10-Pad1).
+Connected MX30 pin 2 to Net-(D30-A).
+Updated MX30 unit metadata.
+Updated D1 unit metadata.
+Added MX31 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX31.
+Changed MX31 value from SW_MX to MX_SW_HS.
+Updated MX31 symbol association from  to /5368cc4a-ef96-4e05-84c7-79d7b4b8c42a.
+Updated MX31 fields.
+Updated MX31 sheetname to '/'.
+Updated MX31 sheetfile to 'keyboard.kicad_sch'.
+Removed MX31 'exclude from BOM' fabrication attribute.
+Removed MX31 'exclude from position files' fabrication attribute.
+Connected MX31 pin 1 to Net-(MX1-Pad1).
+Connected MX31 pin 2 to Net-(D31-A).
+Updated MX31 unit metadata.
+Connected D1 pin 2 to Net-(D1-A).
+Added MX32 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX32.
+Changed MX32 value from SW_MX to MX_SW_HS.
+Updated MX32 symbol association from  to /6c417a98-0ae7-4788-a128-13e693f2ac5b.
+Updated MX32 fields.
+Updated MX32 sheetname to '/'.
+Updated MX32 sheetfile to 'keyboard.kicad_sch'.
+Removed MX32 'exclude from BOM' fabrication attribute.
+Removed MX32 'exclude from position files' fabrication attribute.
+Connected MX32 pin 2 to Net-(D32-A).
+Connected MX32 pin 1 to Net-(MX12-Pad1).
+Updated MX32 unit metadata.
+Connected D1 pin 1 to Net-(D1-K).
+Added MX33 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX33.
+Changed MX33 value from SW_MX to MX_SW_HS.
+Updated MX33 symbol association from  to /896b4f41-971b-4372-9c3f-404333edfda1.
+Updated MX33 fields.
+Updated MX33 sheetname to '/'.
+Updated MX33 sheetfile to 'keyboard.kicad_sch'.
+Removed MX33 'exclude from BOM' fabrication attribute.
+Removed MX33 'exclude from position files' fabrication attribute.
+Connected MX33 pin 1 to Net-(MX13-Pad1).
+Connected MX33 pin 2 to Net-(D33-A).
+Updated MX33 unit metadata.
+Add net Net-(D1-K).
+Added MX34 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX34.
+Changed MX34 value from SW_MX to MX_SW_HS.
+Updated MX34 symbol association from  to /e6c82055-2ac7-4652-8a94-763216ae1231.
+Updated MX34 fields.
+Updated MX34 sheetname to '/'.
+Updated MX34 sheetfile to 'keyboard.kicad_sch'.
+Removed MX34 'exclude from BOM' fabrication attribute.
+Removed MX34 'exclude from position files' fabrication attribute.
+Connected MX34 pin 1 to Net-(MX14-Pad1).
+Connected MX34 pin 2 to Net-(D34-A).
+Updated MX34 unit metadata.
+Updated D1 footprint filters to 'TO-???* *_Diode_* *SingleDiode* D_*'.
+Added MX36 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX36.
+Changed MX36 value from SW_MX to MX_SW_HS.
+Updated MX36 symbol association from  to /5ef9a866-f4eb-422d-a5ce-4416b7cf0c93.
+Updated MX36 fields.
+Updated MX36 sheetname to '/'.
+Updated MX36 sheetfile to 'keyboard.kicad_sch'.
+Removed MX36 'exclude from BOM' fabrication attribute.
+Removed MX36 'exclude from position files' fabrication attribute.
+Connected MX36 pin 1 to Net-(MX16-Pad1).
+Connected MX36 pin 2 to Net-(D36-A).
+Updated MX36 unit metadata.
+Updated D1 sheetfile to 'keyboard.kicad_sch'.
+Added MX37 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX37.
+Changed MX37 value from SW_MX to MX_SW_HS.
+Updated MX37 symbol association from  to /16302c0c-e3c2-4c76-be68-5d1e18305ee2.
+Updated MX37 fields.
+Updated MX37 sheetname to '/'.
+Updated MX37 sheetfile to 'keyboard.kicad_sch'.
+Removed MX37 'exclude from BOM' fabrication attribute.
+Removed MX37 'exclude from position files' fabrication attribute.
+Connected MX37 pin 1 to Net-(MX17-Pad1).
+Connected MX37 pin 2 to Net-(D37-A).
+Updated MX37 unit metadata.
+Updated D1 sheetname to '/'.
+Added MX38 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX38.
+Changed MX38 value from SW_MX to MX_SW_HS.
+Updated MX38 symbol association from  to /bc2deeed-afc3-44d6-904f-d860051271fb.
+Updated MX38 fields.
+Updated MX38 sheetname to '/'.
+Updated MX38 sheetfile to 'keyboard.kicad_sch'.
+Removed MX38 'exclude from BOM' fabrication attribute.
+Removed MX38 'exclude from position files' fabrication attribute.
+Connected MX38 pin 2 to Net-(D38-A).
+Connected MX38 pin 1 to Net-(MX18-Pad1).
+Updated MX38 unit metadata.
+Updated D1 fields.
+Added MX39 (footprint 'PCM_marbastlib-mx:SW_MX_1u').
+Changed REF** reference designator to MX39.
+Changed MX39 value from SW_MX to MX_SW_HS.
+Updated MX39 symbol association from  to /4afd524f-4e1f-4ab6-a09a-efe2c937bce8.
+Updated MX39 fields.
+Updated MX39 sheetname to '/'.
+Updated MX39 sheetfile to 'keyboard.kicad_sch'.
+Removed MX39 'exclude from BOM' fabrication attribute.
+Removed MX39 'exclude from position files' fabrication attribute.
+Connected MX39 pin 1 to Net-(MX19-Pad1).
+Connected MX39 pin 2 to Net-(D39-A).
+Updated MX39 unit metadata.
+Updated D1 symbol association from  to /4c0c398b-f855-4277-97ff-d8ce3a9b13cd.
+Added MX40 (footprint 'PCM_marbastlib-mx:SW_MX_1.5u').
+Changed REF** reference designator to MX40.
+Changed MX40 value from SW_MX to MX_SW_HS.
+Updated MX40 symbol association from  to /8a76fe3a-c789-4abb-b451-ea3e6267f120.
+Updated MX40 fields.
+Updated MX40 sheetname to '/'.
+Updated MX40 sheetfile to 'keyboard.kicad_sch'.
+Removed MX40 'exclude from BOM' fabrication attribute.
+Removed MX40 'exclude from position files' fabrication attribute.
+Connected MX40 pin 2 to Net-(D40-A).
+Connected MX40 pin 1 to Net-(MX10-Pad1).
+Updated MX40 unit metadata.
+Changed D1 value from D_SOD-123 to D_Small.
+Added S1 (footprint 'PCM_marbastlib-mx:STAB_MX_P_2u').
+Changed REF** reference designator to S1.
+Changed S1 value from STAB_MX_P_2u to MX_stab.
+Updated S1 symbol association from  to /c7c0f49c-dfb7-47ae-ac4c-192c5540f6f9.
+Updated S1 fields.
+Updated S1 sheetname to '/'.
+Updated S1 sheetfile to 'keyboard.kicad_sch'.
+Removed S1 'exclude from BOM' fabrication attribute.
+Removed S1 'exclude from position files' fabrication attribute.
+Updated S1 unit metadata.
+Changed REF** reference designator to D1.
+Added S2 (footprint 'PCM_marbastlib-mx:STAB_MX_P_2.25u').
+Changed REF** reference designator to S2.
+Changed S2 value from STAB_MX_P_2.25u to MX_stab.
+Updated S2 symbol association from  to /608b7bcd-696d-4102-b5f4-135e8c0c8c0a.
+Updated S2 fields.
+Updated S2 sheetname to '/'.
+Updated S2 sheetfile to 'keyboard.kicad_sch'.
+Removed S2 'exclude from BOM' fabrication attribute.
+Removed S2 'exclude from position files' fabrication attribute.
+Updated S2 unit metadata.
+Added D1 (footprint 'Diode_SMD:D_SOD-123').
+Added S3 (footprint 'PCM_marbastlib-mx:STAB_MX_6.25u').
+Changed REF** reference designator to S3.
+Changed S3 value from STAB_MX_6.25u to MX_stab.
+Updated S3 symbol association from  to /04c4e1b9-b754-4ff2-90d6-b2ab6f1514f1.
+Updated S3 fields.
+Updated S3 sheetname to '/'.
+Updated S3 sheetfile to 'keyboard.kicad_sch'.
+Removed S3 'exclude from BOM' fabrication attribute.
+Removed S3 'exclude from position files' fabrication attribute.
+Updated S3 unit metadata.
+Removed unused net Column_0.
+Removed unused net Column_1.
+Removed unused net Column_2.
+Removed unused net Row_0.
+Removed unused net Row_1.
+Removed unused net Row_2.
+Removed unused net unconnected-(U1-10{slash}PB6-Pad13).
+Removed unused net unconnected-(U1-14{slash}PB3-Pad15).
+Removed unused net unconnected-(U1-15{slash}PB1-Pad16).
+Removed unused net unconnected-(U1-16{slash}PB2-Pad14).
+Removed unused net unconnected-(U1-8{slash}PB4-Pad11).
+Removed unused net unconnected-(U1-9{slash}PB5-Pad12).
+Removed unused net unconnected-(U1-A0{slash}PF7-Pad17).
+Removed unused net unconnected-(U1-A1{slash}PF6-Pad18).
+Removed unused net unconnected-(U1-A2{slash}PF5-Pad19).
+Removed unused net unconnected-(U1-A3{slash}PF4-Pad20).
+Removed unused net unconnected-(U1-GND-Pad23).
+Removed unused net unconnected-(U1-GND-Pad3).
+Removed unused net unconnected-(U1-GND-Pad4).
+Removed unused net unconnected-(U1-RAW-Pad24).
+Removed unused net unconnected-(U1-RST-Pad22).
+Removed unused net unconnected-(U1-RX1{slash}PD2-Pad2).
+Removed unused net unconnected-(U1-TX0{slash}PD3-Pad1).
+Updated MX4 fields.
+
+
+Info: Total warnings: 0, errors: 0.
