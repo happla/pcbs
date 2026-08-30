@@ -10,3 +10,5 @@
 [ILI9341 display enclosure](https://github.com/happla/pcbs/tree/main/enclosure/ili9341case)
 <br>
 <img src="https://github.com/happla/pcbs/blob/main/enclosure/ili9341case/ili9341casev1.2.png" alt="ili9341casev1.2" width="100">
+
+<img src="https://github.com/happla/pcbs/blob/985096649016db2e0dc61f14368591ed1dd30d64/enclosure/ili9341case/na%CC%88ytto%CC%88kotelo1.3.png" alt="ili9341casev1.3" width="100">
