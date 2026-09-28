@@ -12,3 +12,6 @@
 <img src="https://github.com/happla/pcbs/blob/main/enclosure/ili9341case/ili9341casev1.2.png" alt="ili9341casev1.2" width="100">
 
 <img src="https://github.com/happla/pcbs/blob/985096649016db2e0dc61f14368591ed1dd30d64/enclosure/ili9341case/na%CC%88ytto%CC%88kotelo1.3.png" alt="ili9341casev1.3" width="100">
+
+v3 with m3 screw and m16x2 cable gland placeholders <br>
+<img src="https://github.com/happla/pcbs/blob/main/enclosure/ili9341case/v3/displaycasev3.png" alt="ili9341casev3" width="100">
