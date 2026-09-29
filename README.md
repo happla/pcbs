@@ -1,6 +1,6 @@
 # pcbs
 ## Links:
-[ESP32-C3-Dev-board without copper filling](https://github.com/happla/pcbs/tree/main/xiaobreakout) 
+[ESP32-C3-Dev-board without  filling and gnd plane](https://github.com/happla/pcbs/tree/main/xiaobreakout) 
 <br>
 <img src="https://raw.githubusercontent.com/happla/pcbs/main/xiaobreakout/picture.png" alt="Esp32-c3-dev-board" width="100">
 
